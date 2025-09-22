@@ -74,4 +74,8 @@ RFMiD-Retina-Projesi/
 Bu proje **akademik ve kişisel kullanım** içindir. Ticari kullanım için izin alınması gerekmektedir.  
 Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
+# Veri ve modeller
+Veri seti ve model dosyaları [buradan](https://drive.google.com/drive/folders/1xlCtBCxckhZONjHy3pNB6m1MtZqBQk0w?usp=sharing) indirilebilir.
+
+
 
